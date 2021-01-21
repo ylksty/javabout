@@ -1,5 +1,15 @@
 ## idea
 
+### pit
+
+| 问题               | 原因 | 解决 |
+| ------------------ | ---- | ---- |
+| Idea cannot access |      | 重启 |
+|                    |      |      |
+|                    |      |      |
+
+
+
 ### Appearance & Behavior
 
 ### Keymap

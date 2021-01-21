@@ -2,16 +2,23 @@
 
 ### JVM
 
-- [JVM](java/jvm-jdk.md)
+- [:notebook:JVM](docs/java/jvm.md)
 - [test](test.md)
 
 ### JDK
+
+- [:notebook:jdk](docs/java/jdk.md)
+- [:notebook:JUC多线程及高并发](docs/java/jdk/juc.md)
 
 ## DataBase
 
 ### MySQL
 
+- [MySql](docs/database/mysql.md)
+
 ### Redis
+
+- [Redis](docs/database/redis.md)
 
 ## 系统设计
 
@@ -51,12 +58,12 @@
 
 ## Grace
 
-| 用途              |                                            |            |
+|                   | 软件                                       |            |
 | ----------------- | ------------------------------------------ | ---------- |
 | 开发              |                                            |            |
 |                   | [:notebook:Idea](docs/grace/idea.md)       |            |
 |                   | Sublime                                    |            |
-|                   | Git                                        |            |
+|                   | [:notebook:Git](docs/grace/git.md)         |            |
 | 文档              |                                            |            |
 |                   | Typora                                     |            |
 |                   | [Docsify](https://docsify.js.org/#/zh-cn/) |            |
@@ -66,7 +73,6 @@
 |                   | iTerm2                                     |            |
 | Google Extensions |                                            |            |
 |                   | Google-vimium                              | 浏览器增强 |
-|                   |                                            |            |
 
 ## English
 
@@ -77,6 +83,8 @@
 ## 书单
 
 ## 其他
+
+- [JavaGuide](https://snailclimb.gitee.io/javaguide/)
 
 ## 待办
 

@@ -1,13 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
+* [Home](README.md)
 * Java
     * [JVM](docs/java/jvm.md)
     * [JDK](docs/java/jdk.md)
+    * [JUC多线程及高并发](docs/java/jdk/juc.md)
     * [test](test.md)
 * 数据库
-    * MySQL
-    * Redis
+    * [MySql](docs/database/mysql.md)
+    * [Redis](docs/database/redis.md)
 * 框架
     * Spring
     * SpringBoot
@@ -22,7 +24,8 @@
     * 操作系统
     * 计算机组成原理
 * Grace
-    * [idea](docs/grace/idea.md)
+    * [Idea](docs/grace/idea.md)
+    * [Git](docs/grace/git.md)
 * English
     * [Grammar](docs/english/grammar.md)
 * 书单

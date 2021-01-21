@@ -1,28 +1,31 @@
-* [Java](/?id=java)
+* [Home](README.md)
+* [Java](README#Java)
     * [JVM](docs/java/jvm.md)
     * [JDK](docs/java/jdk.md)
+    * [JUC多线程及高并发](docs/java/jdk/juc.md)
     * [test](test.md)
-* [DataBase](/?id=DataBase)
-    * MySQL
-    * Redis
-* 框架
+* [数据库](README#数据库)
+    * [MySql](docs/database/mysql.md)
+    * [Redis](docs/database/redis.md)
+* [框架](README#框架)
     * Spring
     * SpringBoot
     * MyBatis
     * Netty
-* 微服务
+* [微服务](README#微服务)
     * SpringCloud
     * k8s
-* 计算机基础
+* [计算机基础](README#计算机基础)
     * 数据结构与算法
     * 计算机网络
     * 操作系统
     * 计算机组成原理
-* Grace
-    * [idea](docs/grace/idea.md)
-* English
+* [Grace](README#Grace)
+    * [Idea](docs/grace/idea.md)
+    * [Git](docs/grace/git.md)
+* [English](README#English)
     * [Grammar](docs/english/grammar.md)
-* 书单
-* 其他
-* 待办
+* [书单](README#书单)
+* [其他](README#其他)
+* [待办](README#待办)
 
